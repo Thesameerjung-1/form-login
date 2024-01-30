@@ -25,6 +25,8 @@ body{
     flex-direction: column;
     padding: 14px;
     padding-top: 35px;
+    border-radius: 16px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.423);
 }
 
 .container h2{
@@ -89,7 +91,7 @@ input{
     padding: 14px;
     border-radius: 8px;
     margin: 0px 18px;
-    color: rgba(0, 0, 0, 0.2) ;
+    color: rgba(0, 0, 0, 0.551) ;
     border: 1px solid rgba(0, 0, 0, 0.2);
     box-shadow: 0 2px rgba(0, 0, 0, 0.2);
 }
